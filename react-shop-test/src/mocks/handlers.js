@@ -21,7 +21,7 @@ export const handlers = [
 				{
 					name: "Insurance",
 				},
-				{ name: "dinner" },
+				{ name: "Dinner" },
 			])
 		);
 	}),
